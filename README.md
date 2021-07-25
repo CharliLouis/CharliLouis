@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CharliLouis
+- 👀 I’m interested in game development in Godot or Unreal
+- 🌱 I’m currently learning the Godot engine
+- 💞️ I’m looking to collaborate on any bugs I find and don't know how to deal with
